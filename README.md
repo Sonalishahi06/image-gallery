@@ -8,5 +8,4 @@ A simple image gallery where images appear **black & white by default** and turn
 - 🔍 Smooth zoom effect.
 - 📱 Responsive grid layout.
 
-## 📂 Project Structure
 <img width="929" alt="image" src="https://github.com/Sonalishahi06/image-gallery/blob/main/Screenshot%202025-03-08%20033101.png">
